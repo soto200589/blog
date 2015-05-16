@@ -1,7 +1,9 @@
 = Faustino loeza Pérez
 faustino loeza
 
-image::http://blog.karachicorner.com/wp-content/uploads/2012/07/timeline-covers/fb-cover-image-1.jpg>[genial]
+[[img-sunset]]
+.A mountain sunset
+image::sunset.jpg[Sunset, 300, 200, link="http://www.flickr.com/photos/javh/5448336655"]
 
 == titulo del proyecto
 
