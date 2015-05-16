@@ -1,8 +1,8 @@
 {
   "meta": {
     "username": "faustinoloeza",
-    "repositoryName": "http://faustinoloeza.github.io/blog/",
-    "branch": "master"
+    "repositoryName": "http://localhost/faustinoloeza.github.io/blog/",
+    "branch": "gh-pages"
   },
   "theme": {
     "name": "Casper"
