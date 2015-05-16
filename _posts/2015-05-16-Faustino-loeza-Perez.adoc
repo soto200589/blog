@@ -9,4 +9,4 @@ código;
 
 aqui
 
-image::logo.png[]
+image::http://www.iwantcovers.com/wp-content/uploads/2012/10/Music-Is-My-Heartbeat.jpg[]
