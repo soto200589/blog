@@ -1,11 +1,1 @@
-{
-  "meta": {
-    "username": "faustinoloeza",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper",
-    "url":"blog/themes/Casper"
-  }
-}
+{"meta":{"username":"faustinoloeza","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"faustino loeza pérez","description":"blog ","logo":"http://www.acmelabs.biz/Blog/wp-content/uploads/2015/01/web-logo-md1.png","cover":"http://bestwebsite.gallery/wordpress/wp-content/uploads/2013/11/diplomatic-cover.jpg","url":"https://faustinoloeza.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"//faustinoloeza.github.io/blog/themes/Casper"}}
