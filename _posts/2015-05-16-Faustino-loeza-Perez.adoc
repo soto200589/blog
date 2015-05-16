@@ -1,0 +1,9 @@
+= Faustino loeza Pérez
+faustino loeza
+
+== titulo del proyecto
+
+Para entrar, tenemos que introducir el nombre de usuario y contraseña que utilicemos en Github. Una vez dentro, ya podemos configurar nuestro blog y ponerle un título, descripción, redes sociales, etc. Los artículos se escriben en AsciiDoc. Hubiera preferido Markdown, pero bueno, supongo que en un futuro se podrá elegir. Aquí tenemos un post de ejemplo:
+
+código;
+
