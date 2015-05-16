@@ -5,6 +5,7 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "Casper",
+    "url":"faustino.github.io/blog/themes/Casper"
   }
 }
